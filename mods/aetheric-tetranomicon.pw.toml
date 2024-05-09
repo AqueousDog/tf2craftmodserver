@@ -3,8 +3,8 @@ filename = "aetheric_tetranomicon-1.1.2-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "05c005a27cee8471459573bb66f6ec5c3eaaa86e"
+hash-format = "sha512"
+hash = "72ddde5f63ff6a3db2b00da4eee057cc08517b88b68f932eb77518f4c1d9fb90974d745a774653322e9214cd85e7d387e69a0bb5034a47030bf6f8ff5430ed65"
 mode = "metadata:curseforge"
 
 [update]
