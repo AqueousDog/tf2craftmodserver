@@ -1,0 +1,256 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/aeroblender.pw.toml"
+hash = "984b073a8972182dfdaf61bb7a8a006435f3b712fdc31c71745cccc010288914"
+metafile = true
+
+[[files]]
+file = "mods/aether-lost-content.pw.toml"
+hash = "1d96ec0d08fa346993aae3e895790ae10ebc8c48a2c0d304c61a978b90bf9dd4"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "77977a061cb729fdb48e672f8a5724328bc4f8eda0e502cd656eaac8e2014b46"
+metafile = true
+
+[[files]]
+file = "mods/aetheric-tetranomicon.pw.toml"
+hash = "5c6cccf75530338296838c0080f15eb9d7d3670bcdcf4bf1717ef2395c9983ed"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "d871c25d09f0885dacfba9345f0742912111ce562f3d51b4d59c48053a621e57"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "663798a38b9a778b39004771e8c7b49620d7e0627b0797722cdab4023497c86f"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "f2dc4ee37450e95a1e557a4a3c07f33d5aa3b2d023551d1b4892bb84ac86f73c"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "5cbf4adcbe4fc9d2537aee987065185716b2c99b0c5d32acbb3917cb5248e99f"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "9746a4e8ec44f034fac3b9341c4d350d49ca93b14213fb416c363cb1b04a5a74"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "b409adf384912c1a7a0df6227ca4883044bf740081983f4154ab4b395b0bb0c3"
+metafile = true
+
+[[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "fdbc6fba6ebbb7a762891116150bb8a00033467317ba19c1fea8084f2beef486"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "703196e02c2f1c05f8cb8edb7b3ff9f0c1015bf0ead85730f976e09c24ce0fca"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "db99a4245d3c9e6a7d8a56e8017b596c1d8f4c2a904b37ed5a13484432b70ccb"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "41ade63cd62557e3ea9698fbe865540d1f1709a214c9a77e6fcfaddb6774372b"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "77e55b5a42da3fc5709ef9b0e94eb01174e659f431e2398ea79756a0b2d1a922"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "aa82e3532cdf2e8e6688a64dded905662a9ff35985d46ec22196d8db783c08b6"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5043d7633bc61c7266b2eb100fb86a58703903d12051ea89a1dfc68d9b0092ed"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "788ce14333aea651d87e5a0b2a5fccf811fa127cbe5db90d7a8add8ff3b9ece6"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "cc9ea818b1134db469b32e97b714039d2eb23bc79a0e0b03ef862508e36378b1"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "4aac36e468ea9144072459d8651262ec28faacb15bda60af6656ec57f35afbe1"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "81926f062289f3f876a1ab6d4b1715bdbc033cc973e7e38839152aea9f047d0d"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "33466bb8e4a189bc2fc7e456f0f06c94979b87141fb064706f96b1ff7ead74d3"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "20f38801ee2b9d8ce30381126c4d9616300660b05065b18d763af60e4f575084"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "4028be11a8fd0c2f053b2b18db15f0888f7672bfefa053a0ac955593ad8bd109"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "de85b22c5d830870f06c4782cfccac865cd30eba5a68d76f74306ded2f05b215"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "d20239da0be1696020a1ff1863c862cf17abf1c2930edfe195d2a18c9d6bf1cd"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "ed461d699dfadb76e5b38cf39d1eea7c35221db5587a35bf38499782b6f98160"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "e10bacddaa7815b0ec925be8e07405f5cc0ae170a2b17bc749928987f0a17f36"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "0977ce8f30fd068b51a6b53f3fcdc25d9fc73ac3c0c6853d682ed00d625895af"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "1a26a020a9c4129515f750bbe5c4a6eea1cf01e3fa800181e6fc47f765ecc74a"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "b29af2493b25414705f068bbfddd36fbdeeee2699ae041e74cdf69963bd4abbb"
+metafile = true
+
+[[files]]
+file = "mods/neat.pw.toml"
+hash = "705a6751200d38054d77546f18edc6feba0e30b8fc2095db3af1838d88fb0405"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "c13395d67b6b799805310e1af5f300c2a1686698a7a4c87e7349a17ef8ba6e97"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "e58fa9cd8ef4d3af3b32bca36ef8fccf295f3f8cbff1e1592aad047ab7c403d7"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "7c6e67810f6fb1ee3c055ba3534ebafd9f014233b5268e09c01c98e9c8a2709e"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "06963c6fbcfb93a9dcae5f33e48f88d7424c06fcb29343218605defd3dcec3b0"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "6e117f326a2d6fe9f158660640f359355f95b9453009eb5e00a3d556cd90a497"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "7b2169bd2feff93a9cd44754c631db65587c28faad161a8b7e6b56483bae3e99"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "bf54f601002b584fe31e2cd362f2ad439cd1ab36d53c15280a74536491919833"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "ba1617d3d404b9d35f535ada261ab12617f7aaa3ef227b7164718b46fc8a5a24"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "4afe576fd5be7d199b0bfb3fd809c4dfca7562c5f189cd2713e42788d09beea0"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "d40894604f6537b9f7957cd2987a74a6117c0b49132f62b3f458f0d4d1067752"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "624ded7860311b7bd401efd61cba76a4d133f738533b61182087e004fd8f5bef"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "565c4fa0d07cea0fd0798fe4ad79261946c4e55482a456d984223454c5b16715"
+metafile = true
+
+[[files]]
+file = "mods/tetranomicon.pw.toml"
+hash = "6ee600a613aaf9e30ceaf7aac901e3bfcc18fde605f8bf2a89e9b90bb5f2115a"
+metafile = true
+
+[[files]]
+file = "mods/the-aether-redux.pw.toml"
+hash = "8c55a7b8884d49019489b7539018bb75186c3e83147a0612efca869649b63f40"
+metafile = true
+
+[[files]]
+file = "mods/vmp-forge.pw.toml"
+hash = "4a44dbe2ec821d6e0688e23523c94d5e17fa6da6d34e6dfec35d23b7b8e5206c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "08e74fff7c386b2a39d936d13256e14344c9b79e908db7acd73a89ad0c5fdf4a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9da846cea3a56016041d5e860db44a72a49ad7a931f0ee0eb42c2884ac14598a"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "86f3fe9dfda1e20b94ab08770214641e16882e314230d250f2f854a2051b4bde"
+metafile = true
