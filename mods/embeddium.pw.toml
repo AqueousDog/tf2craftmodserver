@@ -1,0 +1,13 @@
+filename = 'embeddium-0.3.18+mc1.20.1-all.jar'
+name = 'Embeddium'
+side = 'client'
+
+[download]
+hash = 'ed27b29bf11b85dec0ae5edb498ac2e2e7617d9b37c74e3a7e415f393b19b0d3166a7157e3faeee12fabbabd8638747697e124413eebc4f29b76618862522a86'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sk9rgfiA/versions/RieuySG8/embeddium-0.3.18%2Bmc1.20.1-all.jar'
+
+[update.modrinth]
+mod-id = 'sk9rgfiA'
+version = 'RieuySG8'
