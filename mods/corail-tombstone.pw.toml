@@ -3,11 +3,6 @@ filename = "tombstone-1.20.1-8.6.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "333bcafa84d90858226f30065c342427c98709fb0929c9b5493c36e8613622ccadcab583398bc34187367a0b2186ff7319f822043a02fddc67a0155719ba91d4"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5201363
-project-id = 243707
+hash-format = "sha1"
+hash = "4ba9047a36435ad7fc518e0a21afcaa237bb8ca7"
+url = "https://aqueousdog.github.io/tf2craftmodserver/manual/tombstone-1.20.1-8.6.5.jar"

@@ -3,11 +3,6 @@ filename = "caelus-forge-3.2.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/40FYwb4z/versions/mRry0DgY/caelus-forge-3.2.0%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "c2cd101a569fc124a3c25b692cce5825ebfce908985532dba6cb694407da09404654c7c9877ac0295327eb3351fca1d3a6088ca23ef98f76d3eabf7ad4d7d5ff"
-
-[update]
-[update.modrinth]
-mod-id = "40FYwb4z"
-version = "mRry0DgY"
+url = "https://aqueousdog.github.io/tf2craftmodserver/manual/caelus-forge-3.2.0+1.20.1.jar"
+hash-format = "sha1"
+hash = "d14e8ee892d4d8764f523ad0e89bdcfc061fb007"
